@@ -8,6 +8,7 @@ export default {
         name: 'events',
         file: 'build/events.js',
         indent: '\t',
+        banner: '// https://github.com/jniac/js-events\n',
     }
 
 }
